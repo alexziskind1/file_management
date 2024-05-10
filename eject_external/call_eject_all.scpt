@@ -1,0 +1,1 @@
+do shell script "bash /Users/alex/Code/file_management/eject_external/eject_all.sh"
